@@ -1,0 +1,21 @@
+.header {
+    background-color: blueviolet;
+    position: sticky;
+    top: 1rem;
+}
+.modal-container {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.567);
+    backdrop-filter: blur(2px);
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.absolute-block {
+    position: absolute;
+    left: 0;
+    /*top:0; */
+    right: 0;
+    bottom: 0;
+}
