@@ -1,0 +1,20 @@
+.messi {
+    font-size: 90px;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+.ronaldo {
+    border-radius: 9px;
+    border-color: #FF9142;
+    background-color: transparent;
+    color: white;
+    align-items: center;
+}
+.neymar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
